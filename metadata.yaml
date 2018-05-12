@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31384'
     url: http://www.gutenberg.org/2009/agents/31384
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39916#The-Ranger-Boys-Outwit-the-Timber-Thieves
 gutenberg_issued: '2012-06-04'
 gutenberg_type: Text
 identifiers:
