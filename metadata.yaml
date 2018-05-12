@@ -1,0 +1,25 @@
+_repo: The-Ranger-Boys-Outwit-the-Timber-Thieves_39916
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Labelle, Claude A.
+    alias: La Belle, Claude A.
+    gutenberg_agent_id: '31384'
+    url: http://www.gutenberg.org/2009/agents/31384
+description: ''
+gutenberg_issued: '2012-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39916'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lumber trade -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Ranger Boys Outwit the Timber Thieves
+url: http://www.gutenberg.org/ebooks/39916
